@@ -1,7 +1,8 @@
-# Site da Empresa de Móveis "Nome da Empresa"
+# Site para Empresa de Móveis
 
 ## Descrição
-Este é o repositório para o site da empresa de móveis "Nome da Empresa". Este site foi desenvolvido utilizando HTML e CSS para fornecer informações sobre os produtos, serviços e contatos da empresa.
+Este é o repositório para o site de uma empresa de móveis. Este site foi desenvolvido utilizando HTML e CSS para fornecer informações sobre os serviços e contatos da empresa.
+Criado durante o curso "Explorer" da RocketSeat.
 
 ##Estrutura do Projeto
 O projeto está estruturado da seguinte forma:

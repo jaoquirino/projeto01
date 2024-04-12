@@ -1,4 +1,5 @@
 # Site para Empresa de Móveis
+![image](https://github.com/jaoquirino/projeto01/assets/105396440/1b382334-6925-445d-97fd-6acd0b98922a)
 
 ## Descrição
 Este é o repositório para o site de uma empresa de móveis. Este site foi desenvolvido utilizando HTML e CSS para fornecer informações sobre os serviços e contatos da empresa.
